@@ -1,0 +1,74 @@
+{
+  "configVersion": 1,
+  "timestamp": 1568422035886,
+  "index": "https://ewertonbello.github.io/CalculadoraSoros/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://ewertonbello.github.io/CalculadoraSoros/es2015-polyfills.bda95d5896422d031328.js",
+        "https://ewertonbello.github.io/CalculadoraSoros/favicon.ico",
+        "https://ewertonbello.github.io/CalculadoraSoros/index.html",
+        "https://ewertonbello.github.io/CalculadoraSoros/main.d1cb84c7fc3a3db21ca7.js",
+        "https://ewertonbello.github.io/CalculadoraSoros/polyfills.8bbb231b43165d65d357.js",
+        "https://ewertonbello.github.io/CalculadoraSoros/runtime.26209474bfa8dc87a77c.js",
+        "https://ewertonbello.github.io/CalculadoraSoros/styles.9197e0bd3c661aad01c5.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://ewertonbello.github.io/CalculadoraSoros/assets/icons/icon-128x128.png",
+        "https://ewertonbello.github.io/CalculadoraSoros/assets/icons/icon-144x144.png",
+        "https://ewertonbello.github.io/CalculadoraSoros/assets/icons/icon-152x152.png",
+        "https://ewertonbello.github.io/CalculadoraSoros/assets/icons/icon-192x192.png",
+        "https://ewertonbello.github.io/CalculadoraSoros/assets/icons/icon-384x384.png",
+        "https://ewertonbello.github.io/CalculadoraSoros/assets/icons/icon-512x512.png",
+        "https://ewertonbello.github.io/CalculadoraSoros/assets/icons/icon-72x72.png",
+        "https://ewertonbello.github.io/CalculadoraSoros/assets/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://ewertonbello.github.io/CalculadoraSoros/assets/icons/icon-128x128.png": "90fa5becfa1553669d992c450760893ddcbc3324",
+    "https://ewertonbello.github.io/CalculadoraSoros/assets/icons/icon-144x144.png": "725b3d916dec818df02a4d39b9baf48f6c853b5d",
+    "https://ewertonbello.github.io/CalculadoraSoros/assets/icons/icon-152x152.png": "292004c668dfe0cc89652da59b7a043463d59eb9",
+    "https://ewertonbello.github.io/CalculadoraSoros/assets/icons/icon-192x192.png": "e0d4f7180e4f16ffb2ef4e3cc066d42292a1b3c5",
+    "https://ewertonbello.github.io/CalculadoraSoros/assets/icons/icon-384x384.png": "8a45e38e7b1408c7f15b40d7be5cd3dc38dee329",
+    "https://ewertonbello.github.io/CalculadoraSoros/assets/icons/icon-512x512.png": "7dcf42c13956e3f370770d159d370f2d6a95ca64",
+    "https://ewertonbello.github.io/CalculadoraSoros/assets/icons/icon-72x72.png": "06569ddd762d84196ed0e686700d5dab5cc518c0",
+    "https://ewertonbello.github.io/CalculadoraSoros/assets/icons/icon-96x96.png": "0e1b68398e980f75ad19d8cf9aee7cfc9ae3335b",
+    "https://ewertonbello.github.io/CalculadoraSoros/es2015-polyfills.bda95d5896422d031328.js": "1612fe8f7e8e0c856f0885ff179e93363c67834f",
+    "https://ewertonbello.github.io/CalculadoraSoros/favicon.ico": "40c096151bc66ee869df3ac85af5cd12d565c985",
+    "https://ewertonbello.github.io/CalculadoraSoros/index.html": "0c59a68129055b58ef47e343ec127b384c0e15c0",
+    "https://ewertonbello.github.io/CalculadoraSoros/main.d1cb84c7fc3a3db21ca7.js": "472f0d8aa3042bede15bd71e8a3f5ec9f06ecec2",
+    "https://ewertonbello.github.io/CalculadoraSoros/polyfills.8bbb231b43165d65d357.js": "ffa449995bf2eba2ccd0a002417214f7eb75e7b5",
+    "https://ewertonbello.github.io/CalculadoraSoros/runtime.26209474bfa8dc87a77c.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
+    "https://ewertonbello.github.io/CalculadoraSoros/styles.9197e0bd3c661aad01c5.css": "d63db2ff629ef691e761a6bfc2cbfbe4bcc728b0"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
