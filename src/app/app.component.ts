@@ -18,6 +18,7 @@ export class AppComponent
 	calcular()
 	{
 		this.valor = this.investimento
+    this.resultados = ''
 		for (let i = 0; i < this.niveis; i++) 
 		{
 			this.valor+=((this.valor*(this.payout/100))*(this.soros/100))
